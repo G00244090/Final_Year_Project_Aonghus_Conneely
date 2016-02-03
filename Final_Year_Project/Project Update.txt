@@ -1,0 +1,23 @@
+*****************Project update***********************
+Title: 		An Investigation in RFID Tecenology
+Student: 	Aonghus Conneely
+Student No: 	G00244090
+
+------
+Nov 6
+------
+After initial investigation into the equipment required i have began to purchase some equipment to help start the project.
+The equipment i have purchased:
+
+* MC522 RFID Interigator (Reader/Writer)
+* RFID Mifare tags
+* Freescale FDRM KL26Z microcontorller board.
+
+Equipment still to purcase: 
+* Sim900 GSM/GPRS module 
+* LCD Screen
+
+
+With the arrival of the KL26Z board i have began to build small test projects to firmiliarise myself with the board, and now am beginging to develope my c program to
+comunicate with the RFID Interigator.I am attmepting to us the spi communitcation pins on the KL26Z board to comunicate with the RFID Interigator.
+****************************************************************************************************************************************************************************
